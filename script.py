@@ -3,9 +3,7 @@ class script(object):
 
     START_MSG = """ <b>Hi {}
 
-You can call this as an Auto Filter Bot if you like :D
-
-This is Version 2 of Auto Filter Bot
+This is a filter bot of @class_9th_10th
 
 Bot gives button link to files in connected channels on query !
 
@@ -53,12 +51,12 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @ElonMusk_1</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @ElonMusk_1
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
